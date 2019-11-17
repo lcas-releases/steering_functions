@@ -1,3 +1,26 @@
+## steering_functions (melodic) - 1.0.5-1
+
+The packages in the `steering_functions` repository were released into the `melodic` distro by running `/usr/bin/bloom-release -n -t melodic -r melodic steering_functions` on `Sun, 17 Nov 2019 10:33:18 -0000`
+
+The `steering_functions` package was released.
+
+Version of package(s) in repository `steering_functions`:
+
+- upstream repository: https://github.com/iliad-project/steering_functions.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.0.5-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.0`
+- catkin_pkg version: `0.4.14`
+- rosdep version: `0.17.1`
+- rosdistro version: `0.7.5`
+- vcstools version: `0.1.42`
+
+
 ## steering_functions (kinetic) - 1.0.5-0
 
 The packages in the `steering_functions` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release -y --no-web -t kinetic -r kinetic steering_functions` on `Fri, 27 Apr 2018 20:19:45 -0000`
